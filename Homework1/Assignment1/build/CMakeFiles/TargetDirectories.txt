@@ -1,3 +1,0 @@
-/home/arch_l_inux/workspace/ocw/games101/GAMES101-Assignments/Homework1/Assignment1/build/CMakeFiles/Rasterizer.dir
-/home/arch_l_inux/workspace/ocw/games101/GAMES101-Assignments/Homework1/Assignment1/build/CMakeFiles/edit_cache.dir
-/home/arch_l_inux/workspace/ocw/games101/GAMES101-Assignments/Homework1/Assignment1/build/CMakeFiles/rebuild_cache.dir
