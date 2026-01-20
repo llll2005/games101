@@ -1,3 +1,4 @@
 {
-  "cmake.sourceDirectory": "/home/LnoArch/Projects/games101/assignments/Homework1"
+  "cmake.sourceDirectory": "/home/LnoArch/Projects/games101/assignments/Homework1",
+  "C_Cpp.default.compilerPath": "/usr/bin/clang++"
 }

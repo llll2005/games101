@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/LnoArch/Projects/games101/assignments/Homework4/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -isystem /opt/cuda/targets/x86_64-linux/include -isystem /opt/cuda/targets/x86_64-linux/include/cccl -std=gnu++14 -o CMakeFiles/BezierCurve.dir/main.cpp.o -c /home/LnoArch/Projects/games101/assignments/Homework4/main.cpp",
+  "file": "/home/LnoArch/Projects/games101/assignments/Homework4/main.cpp",
+  "output": "CMakeFiles/BezierCurve.dir/main.cpp.o"
+}
+]
